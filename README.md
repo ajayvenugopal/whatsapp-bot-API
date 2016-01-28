@@ -36,3 +36,4 @@ and a bit more...
 
 To create your own views, check the ```src/router.py```, and the ```src/view/basic_views.py``` for a simple example.
 
+Source : https://github.com/joaoricardo000/whatsapp-bot-seed
